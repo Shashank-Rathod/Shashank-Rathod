@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I am Rathod Shashank:
 🔭 I’m currently Pursuing MCA<br>🌱 I’m currently learning Data Science
 
 
