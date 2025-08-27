@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Pursuing MCA<br>🌱 I’m currently learning Data Science
+🔭 I Completed My Master's Degree in MCA<br>🌱 I’m currently learning Data Science
 
 
 ## 🌐 Socials:
